@@ -43,6 +43,6 @@ https://github.com/user-attachments/assets/d12a3362-670b-404e-8961-7f0570aaff15
 ---
 
 ## ⚙️ Setup & Installation
-- Clone the repository: git clone https://github.com/manhal203/flutter-tic-tac-game.git
-- Install dependencies: flutter pub get
-- Run the app: flutter run
+1. Clone the repository: `git clone https://github.com/manhal203/flutter-tic-tac-game.git`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
